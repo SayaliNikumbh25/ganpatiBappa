@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ganpatiBappa/static/css/main.4d026c6a.css",
+    "main.js": "/ganpatiBappa/static/js/main.7fd06371.js",
+    "index.html": "/ganpatiBappa/index.html",
+    "main.4d026c6a.css.map": "/ganpatiBappa/static/css/main.4d026c6a.css.map",
+    "main.7fd06371.js.map": "/ganpatiBappa/static/js/main.7fd06371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d026c6a.css",
+    "static/js/main.7fd06371.js"
+  ]
+}
